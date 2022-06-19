@@ -1,5 +1,4 @@
 aeidon==1.7
-apt-xapian-index==0.49
 asgiref==3.4.1
 attrs==19.3.0
 Automat==0.8.0
